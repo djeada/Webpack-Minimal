@@ -6,7 +6,7 @@ It is easily extensible and customizable.
 
 ## Requirements
 
-First things first, you need to install have [npm](https://www.npmjs.com/) installed.
+First things first, you need to make sure that you have [npm](https://www.npmjs.com/) installed.
 
 Then proceed to install [webpack](https://webpack.js.org/):
     
