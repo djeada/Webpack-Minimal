@@ -63,3 +63,11 @@ Under the hood, Webpack dev server is a mini Node.js Express server. That server
 ## What about the TypeScript itself?
 
 TypeScript is configured using tsconfig.json where you can specify to which version of JavaScript should it be transpiled.
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
